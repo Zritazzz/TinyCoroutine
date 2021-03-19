@@ -1,11 +1,10 @@
-/**
+/*
 * @file  uthread.h
 * @author Zrita
 * @version 0.1
-* @brief   :A asymmetric coroutine library for C++ 
-*      1. Date: 2021-1-12 
-*          Author: Zrita
-*          Modification: this file was created 
+* @brief   :A  coroutine library demo for C++ 
+*       Date: 2021-1-12 
+*       Author: Zrita
 */
 
 #ifndef MY_UTHREAD_H
